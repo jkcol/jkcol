@@ -1,4 +1,8 @@
 ### Hi there 👋
+Hi 👋, I'm Jayden!
+Computer Engineer @UIUC based in NYC
+How to reach me: jaykim1133@gmail.com
+Linkedin: in/jayden-kim-962436236
 
 <!--
 **jkcol/jkcol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
