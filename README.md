@@ -1,12 +1,8 @@
 ### Hi there 👋
 Hi 👋, I'm Jayden! 
-
 Computer Engineer @UIUC based in NYC
-
 I'm currently working on a social media music app and a stockAI program for a research paper.
-
 How to reach me: jaykim1133@gmail.com
-
 Linkedin: in/jayden-kim-962436236
 
 <!--
