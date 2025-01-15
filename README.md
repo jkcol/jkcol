@@ -4,7 +4,7 @@
 - I'm currently working on a social media music app and a stockAI program for a research paper.
 - I've collected all my projects and put it on this new github
 - How to reach me: jaykim1133@gmail.com
-- Linkedin: in/jayden-kim-962436236
+- Linkedin: in/https://www.linkedin.com/in/jaydenkimm/
 
 <!--
 **jkcol/jkcol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
