@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Jayden! 
 
 - Computer Engineer @UIUC based in NYC
-- I'm currently working on a social media music app and a stockAI program for a research paper.
+- I'm currently working on a new Fintech Project!
 - I've collected all my projects and put it on this new github
 - How to reach me: jaykim1133@gmail.com
 - Linkedin: in/https://www.linkedin.com/in/jaydenkimm/
