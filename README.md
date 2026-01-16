@@ -1,10 +1,12 @@
 ### Hi 👋, I'm Jayden! 
 
 - Computer Engineer @UIUC based in NYC
-- I'm currently working on a new Fintech Project!
-- I've collected all my projects and put it on this new github
 - How to reach me: jaykim1133@gmail.com
 - Linkedin: in/https://www.linkedin.com/in/jaydenkimm/
+- What I'm Working on:
+  - A Project utilizing LangChain and Custom FastAPI with MCPs/UCPs (full stack application with robust API backend
+  - My Website: https://jkcol.github.io/
+ 
 
 <!--
 **jkcol/jkcol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
